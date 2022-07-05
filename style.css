@@ -1,0 +1,106 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    margin:0;
+    padding:0;
+    border:0;
+    background: url("https://cdn.discordapp.com/attachments/880091257450414190/993845704701247559/wallpaperflare.com_wallpaper_2.jpg");
+    /*background: url("https://undsgn.com/wp-content/uploads/2018/04/ltotbngnzzu.jpg");*/
+    
+    background-attachment: fixed;
+}
+
+a{ 
+    color:white;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    position: relative;
+    right: 40px;   
+}
+
+a:hover {
+    padding: 5px;
+    background-color: rgba(160, 213, 241, 0.829);
+    color: rgb(23, 20, 20);
+}
+
+#links{
+    word-spacing: 70px;
+    padding-top: 20px;
+    text-align: right;
+}
+
+#photo{
+    text-align: center;
+    margin-block: 10px;
+}
+
+#abt{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: center;
+    margin-top: 30px;
+    padding-inline: 15%;
+    padding-block: 2%;
+    background:url("https://storage.pixteller.com/designs/designs-images/2019-03-27/05/simple-background-backgrounds-passion-simple-1-5c9b95bd34713.png");
+    /*background:url("https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000");*/
+    opacity: 0.7;
+}
+
+#desc{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: left;
+    color: white;
+    margin-left: 0%;
+    position: relative;
+    top: 150px;
+    padding-left: 20%;
+ 
+}
+
+#work{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: left;
+    color: white;
+    margin-left: 0%;
+    position: relative;
+    top: 150px;
+    padding-left: 20%;
+
+}
+
+#resume{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    text-align: left;
+    color: white;
+    margin-left: 0%;
+    position: relative;
+    top: 150px;
+    padding-left: 20%;
+}
+
+#spacing{
+    position: relative;
+    right: 30px;
+}
+#contact{
+    font-size: xx-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    word-spacing: normal;
+    color: white;
+    text-align: center;
+    margin-top: 30px;
+    padding-inline: 10%;
+    padding-block: 2%;
+}
